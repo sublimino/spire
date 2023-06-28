@@ -23,6 +23,7 @@ SPIFFE and SPIRE are being used by numerous other companies, both large and smal
 * Amazon
 * Arm
 * Cisco
+* ControlPlane
 * Decipher Technology Studios
 * F5 Networks
 * HashiCorp
